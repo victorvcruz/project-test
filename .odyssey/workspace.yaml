@@ -1,0 +1,5 @@
+version: 1
+team: test-group
+project:
+  name: project-test-group-2
+  version: 1.0.0

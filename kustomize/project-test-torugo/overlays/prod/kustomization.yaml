@@ -1,0 +1,6 @@
+commonLabels:
+  env: dev
+commonAnnotations:
+  note: This is a prod environment
+resources:
+  - ../../base

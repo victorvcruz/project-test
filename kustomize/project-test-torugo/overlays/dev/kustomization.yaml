@@ -1,0 +1,9 @@
+commonLabels:
+  env: dev
+commonAnnotations:
+  note: This is a dev environment
+resources:
+  - ../../base
+patches:
+  - path: service.yaml
+  - path: deployment.yaml

@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: project-test-group-2
+  description: projeto 2 de teste do time grupo
+  tags:
+    - backend
+  links:
+    - title: Git
+      url: https://github.com/victorvcruz/project-test
+  annotations:
+    github.com/project-slug: victorvcruz/project-test
+    backstage.io/techdocs-ref: dir:.
